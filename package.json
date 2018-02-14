@@ -18,13 +18,15 @@
   },
   "homepage": "https://github.com/suratkw/urt#readme",
   "dependencies": {
+    "express": "^4.16.2",
+    "i2c-bus": "^2.0.0",
     "iconv": "^2.3.0",
     "mfrc522-rpi": "^1.1.0",
     "oled-font-5x7": "^1.0.0",
     "oled-i2c-bus": "^1.0.10",
-    "oled-js-pi": "^1.0.5",
     "png-to-lcd": "^1.0.3",
     "serialport": "^6.0.5",
+    "socket.io": "^2.0.4",
     "wiringpi-node": "^2.4.4"
   }
 }
